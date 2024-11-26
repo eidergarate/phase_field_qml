@@ -22,7 +22,7 @@ conda env create -f environment.yml
 Developed in a Windows 10 (64 bits).
 Tested in a Windows 10 (64 bits) and a Ubuntu 22.04.3 LTS (64 bits).
 
-**Local Windows PC hardware:**
+**Local Windows PC hardware**
 
 Intel Core i5-9500 CPU processor of 6 cores \
 8GB of RAM 
@@ -59,7 +59,7 @@ Contact: jon.lambarri\@tekniker.es \
 
 **Naroa Martin** \
 Contact: naroa.martin@tekniker.es
-Contact: jon.lambarri\@tekniker.es \
+
 
 
 

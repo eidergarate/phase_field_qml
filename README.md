@@ -56,7 +56,7 @@ id0, idf,  n_train, n_test, combs_predefined)
 and to train the VQA just run,
 ```python
 train_vqc_cv(df_clean_imputed, input_cols, output_col, n_layers, num_iters, batch_size, obs, loss_type, x_min, 
-                 x_max, y_min, y_max, n_cv, id0, idf, n_train, n_test, combs_predefined = True)
+                 x_max, y_min, y_max, n_cv, id0, idf, n_train, n_test, combs_predefined)
 ```
 Code examples for the whole workflow are available in src/main_train_VQC and src/main_train_XGB.
 

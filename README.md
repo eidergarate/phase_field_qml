@@ -46,7 +46,7 @@ Data size, simulations and feature extraction methods are explained in Eider, GP
 
 # Usage
 
-Two models can be trained in this repositoty, an Xtreme Gradient Boosting model (XGBoost) and a Variational Quantum Algorithm (VQA). 
+Two models can be trained in this repositoty, a Xtreme Gradient Boosting model (XGBoost) and a Variational Quantum Algorithm (VQA). 
 
 To train the XGBoost just run,
 ```python
